@@ -7,7 +7,7 @@ import numpy as np
 
 
 # FastAPI base URL
-API_URL = "http://localhost:8000/expenses/"
+API_URL = "https://expense-backend-m2y7.onrender.com"
 
 st.set_page_config(page_title="Expense Tracker", page_icon="💰", layout="wide")
 
